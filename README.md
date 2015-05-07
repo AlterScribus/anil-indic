@@ -3,7 +3,7 @@ anil-indic
 
 Anil's version of scribus 1.5, patched for indic RTL
 
-Author : anilankv (at) gmail (dot) com
+Author : anilankv (at) g m a i l ! com
 
 As for now, only the diff.
 
