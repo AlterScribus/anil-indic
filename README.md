@@ -1,7 +1,7 @@
 anil-indic
 ==========
 
-Anil's version of scribus 1.5, patched for indic RTL
+Anil's version of scribus 1.5, patched for indic (indic requires advanced layout features but is not RTL)
 
 Author : anilankv (at) g m a i l ! com
 
